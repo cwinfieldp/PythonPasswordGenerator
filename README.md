@@ -1,5 +1,5 @@
 # PythonPasswordGenerator
-Python PasswordGenerator
+Python Password Generator
 #for loop
 #Lab 12 - Project - Password creator
 
