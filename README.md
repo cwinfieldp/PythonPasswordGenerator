@@ -1,7 +1,9 @@
 # PythonPasswordGenerator
 Python Password Generator
+
 #for loop
-#Lab 12 - Project - Password creator
+
+#Project - Password creator
 
 
 import random
