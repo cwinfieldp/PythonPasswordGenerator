@@ -19,7 +19,7 @@ upper,lower,digits,odd = False,False,True,True
 
 #Upper is linked with the 1st true, lower is linked with 2nd true, etc
 
-# if you would like, it is also possible can also change some of the True statements to False to prevent some of the variables from   affecting how the passwords are generated
+#if you would like, it is also possible can also change some of the True statements to False to prevent some of the variables from   affecting how the passwords are generated
 
 
 finalpass = ""
