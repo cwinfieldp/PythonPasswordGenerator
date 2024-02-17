@@ -4,6 +4,7 @@ Here's a breakdown of the code:
 Character Sets:
 
 capital_let: Uppercase letters
+
 small_let: Lowercase letters
 
 numbers: Digits
