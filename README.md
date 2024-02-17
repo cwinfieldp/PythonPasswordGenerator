@@ -5,14 +5,19 @@ Character Sets:
 
 capital_let: Uppercase letters
 small_let: Lowercase letters
+
 numbers: Digits
+
 special_char: Special characters
+
 Boolean Flags:
 
 upper, lower, digits, and odd are boolean variables that determine whether to include each respective character set in the password.
+
 Combining Character Sets:
 
 The finalpass variable is used to combine the selected character sets based on the boolean flags.
+
 Password Generation:
 
 The code uses a loop (for x in range(howmuch)) to generate multiple passwords (howmuch times).
