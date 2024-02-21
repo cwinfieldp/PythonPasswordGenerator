@@ -2,6 +2,7 @@ This Python project is a simple password generator that allows customization of 
 Here's a breakdown of the code:
 
 Character Sets:
+![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/6894a441-da5f-4a5a-a764-6dd715d87caf)
 
 capital_let: Uppercase letters
 
