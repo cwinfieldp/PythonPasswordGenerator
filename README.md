@@ -1,8 +1,8 @@
 This Python project is a simple password generator that allows customization of the password composition by including or excluding uppercase letters, lowercase letters, digits, and special characters. The generated passwords are printed to the console.
 Here's a breakdown of the code:
+![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/3f43dff9-f34f-4f84-8a42-c2863d2810a7)
 
 Character Sets:
-![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/6894a441-da5f-4a5a-a764-6dd715d87caf)
 
 capital_let: Uppercase letters
 
