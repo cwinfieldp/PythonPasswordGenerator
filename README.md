@@ -4,19 +4,23 @@ This Python project is a simple password generator that allows customization of 
 Here's a breakdown of the code:
 
 Character Sets:
+
 ![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/ed59404c-bb9c-4a9a-93ae-88b8f715a725)
 
 capital_let: Uppercase letters, small_let: Lowercase letters ,numbers: Digits, special_char: Special characters
 
 Boolean Flags:
 upper, lower, digits, and odd are boolean variables that determine whether to include each respective character set in the password.
+
 ![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/60da0bde-351a-43d7-85ea-816dca00601b)
 
 Combining Character Sets:
 The finalpass variable is used to combine the selected character sets based on the boolean flags.
+
 ![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/640a401a-7c0d-4563-b2a7-43564e3a579a)
 
 Password Generation:
+
 ![image](https://github.com/cwinfieldp/PythonPasswordGenerator/assets/149834667/64860f06-0a43-489a-be88-0b2d38e466fc)
 
 The code uses a loop (for x in range(howmuch)) to generate multiple passwords (howmuch times).
